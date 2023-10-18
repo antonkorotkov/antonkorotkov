@@ -1,6 +1,6 @@
 #### Hey! 
 
-My name is Anton and I am a software developer with more than 10 years of experience. 👨‍💻 My LinkedIn profile is https://www.linkedin.com/in/anton-korotkoff/ Feel free to contact me.
+My name is Anton and I am a software developer with more than 15 years of experience. 👨‍💻 My LinkedIn profile is https://www.linkedin.com/in/anton-korotkoff/ Feel free to contact me.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=antonkorotkov&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="antonkorotkov" />
 
