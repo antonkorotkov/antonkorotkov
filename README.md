@@ -6,10 +6,8 @@ My name is Anton and I am a software developer with over 15 years of experience.
 
 ### My pet projects
 
-Elastron - https://elastron.eney.solutions
-The Elasticsearch desktop client for OSX.
+- Elastron - https://elastron.eney.solutions The Elasticsearch desktop client for OSX.
 
-CoinMonitor - https://t.me/CryptoCoinMonitor_Bot
-Telegram bot
+- CoinMonitor - https://t.me/CryptoCoinMonitor_Bot Telegram bot ([Try it](https://t.me/CryptoCoinMonitor_Bot))
 
 #StandWithUkraine
