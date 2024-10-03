@@ -8,6 +8,6 @@ My name is Anton and I am a software developer with over 15 years of experience.
 
 - Elastron - https://github.com/antonkorotkov/elastron The Elasticsearch desktop client.
 
-- CoinMonitor - https://t.me/CryptoCoinMonitor_Bot Telegram bot ([Try it](https://t.me/CryptoCoinMonitor_Bot))
+- CoinMonitor - https://github.com/antonkorotkov/coin-monitor-bot Telegram bot ([Try it](https://t.me/CryptoCoinMonitor_Bot))
 
 #StandWithUkraine
