@@ -1,6 +1,6 @@
-#### Hey! 
+#### Hi there! 
 
-My name is Anton and I am a software developer with over 15 years of experience. 👨‍💻 My LinkedIn profile is https://www.linkedin.com/in/anton-korotkoff/ Feel free to contact me.
+I`m always open to collaboration. Feel free to contact me https://www.linkedin.com/in/anton-korotkoff/.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonkorotkov&theme=dark&langs_count=10&layout=compact)](https://github.com/antonkorotkov/)
 
